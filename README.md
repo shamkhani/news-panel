@@ -1,1 +1,1 @@
-# news_panel
+# News Panel
